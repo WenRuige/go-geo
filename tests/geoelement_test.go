@@ -1,10 +1,11 @@
 package tests
 
 import (
-	"go-geo/calculation"
-	"go-geo/convert"
-	"go-geo/element"
 	"testing"
+
+	"github.com/go-geo/calculation"
+	"github.com/go-geo/convert"
+	"github.com/go-geo/element"
 )
 
 func TestDistance(t *testing.T) {
