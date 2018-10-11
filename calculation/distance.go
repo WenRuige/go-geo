@@ -1,8 +1,9 @@
 package calculation
 
 import (
-	"go-geo/element"
 	"math"
+
+	"github.com/go-geo/element"
 )
 
 //Euclidean distance

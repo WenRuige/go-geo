@@ -1,6 +1,6 @@
 package calculation
 
-import "go-geo/element"
+import "github.com/go-geo/element"
 
 //计算多个点的中心
 func PointsCenteriod(points ...element.Point) *element.Point {
